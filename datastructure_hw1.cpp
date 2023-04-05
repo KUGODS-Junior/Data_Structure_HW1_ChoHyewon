@@ -126,7 +126,6 @@ int main() {
     pushStack(s1, 2);
     pushStack(s1, 6);
     pushStack(s1, 5);
-
     pushStack(s2, 3);
     pushStack(s2, 1);
     pushStack(s2, 7);
@@ -151,7 +150,6 @@ int main() {
     pushStack(s1, 2);
     pushStack(s1, 6);
     pushStack(s1, 5);
-
     pushStack(s2, 3);
     pushStack(s2, 1);
     pushStack(s2, 7);
